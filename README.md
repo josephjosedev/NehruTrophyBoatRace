@@ -4,8 +4,8 @@
 
 | Sl. No.| Year| Name of Boat | Captain | Boat club |
 | :-------------: |:-------------:| :-----:| :-----:|  :-----:|
-|  .. | 2021 |          covid           |
-|  ..  |2020 | covid              |
+|  .. | 2021 | ..........        |..........|......|
+|  ..  |2020 | ...........           |...........|..........|
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha            |
 | 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            |
 | 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |
