@@ -1,6 +1,5 @@
 **INTRODUCTION**
-
-<p>The Nehru Trophy Boat Race on the Punnamda Lake, near Alappuzha, held on the second Saturday of August every year, is the most competitive and popular of the boat races. On the day of this fiercely fought boat race, the tranquil lake front is transformed into a sea of humanity with an estimated two lakh people, including tourists from abroad, coming to watch the event. For the people of each village in Kuttanad, a victory at this race for their village boat is something to be celebrated for months to come.
+<p>The Nehru Trophy Boat Race on the <b>Punnamda Lake</b>  near Alappuzha, held on the second Saturday of August every year, is the most competitive and popular of the boat races. On the day of this fiercely fought boat race, the tranquil lake front is transformed into a sea of humanity with an estimated two lakh people, including tourists from abroad, coming to watch the event. For the people of each village in Kuttanad, a victory at this race for their village boat is something to be celebrated for months to come.
 
 The major attraction of the boat race is the competition of snake boats chundanvallams or snake boats.Chundans (snake boats) are an impressive sight, measuring over 100 feet in length, with a raised prow. They were called snake boats by the former colonial rulers, who based the name on a native boat found in Norway,although Kerala's Chundans bear little resemblance to their European namesakes.</P>
 
