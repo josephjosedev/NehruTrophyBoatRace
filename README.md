@@ -2,8 +2,8 @@
 
 
 
-| Sl. No.| Year| Name of Boat | Captain | Boat club |
-| :-------------: |:-------------:| :-----:| :-----:|  :-----:|
+| Sl. No.| Year| Name of Boat | Captain | Boat club |Chief Guest |
+| :-------------: |:-------------:| :-----:| :-----:|  :-----:| :-----:|
 |  .. | 2021 | ..........        |..........|......|
 |  ..  |2020 | ...........           |...........|..........|
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha            |
