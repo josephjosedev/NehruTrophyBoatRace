@@ -3,11 +3,11 @@
 
 
 | Sl. No.| Year| Name of Boat | Captain | Boat club |Chief Guest |
-| :-------------: |:-------------:| :-----:| :-----:|  :-----:| :-----:|
+| :-------------: |:-------------:| :-----:| :-----:|  :-----:|      :-----:|
 |  .. | 2021 | ..........        |..........|......|
 |  ..  |2020 | ...........           |...........|..........|
-| 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha            |
-| 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            |
+| 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha                    
+| 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            || |Sachin Tendulkar | 
 | 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |
 | 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |
 | 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |
