@@ -14,7 +14,7 @@
 | 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Vice President of India:Mohammad Hamid Ansari|
 | 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |Chiranjeevi|
 | 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |
-| 59 | 2011 | ------------------          | ------------------                             | ------------------                           |
+| 59 | 2011 | Karichal                    | Jiji Jacob Pollayil                            | Freedom Boat Club, Kainakary                       |
 | 58 | 2010 | Jawahar Thayankari          | Joseph philip                                  | Kumarakam Town Boat Club                     |
 | 57 | 2009 | Champakkulam                | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |Sonia Gandhi|
 | 56 | 2008 | Karichal                    | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |
