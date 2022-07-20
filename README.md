@@ -16,7 +16,7 @@
 | 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |
 | 59 | 2011 | ------------------          | ------------------                             | ------------------                           |
 | 58 | 2010 | Jawahar Thayankari          | Joseph philip                                  | Kumarakam Town Boat Club                     |
-| 57 | 2009 | Champakkulam                | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |
+| 57 | 2009 | Champakkulam                | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |Sonia Gandhi|
 | 56 | 2008 | Karichal                    | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |
 | 55 | 2007 | Payippad                    | Kunjumon Meluvallil                            | Kumarakam Town Boat Club                     |
 | 54 | 2006 | Payippad                    | Raju Vadakkath                                 | Kumarakam Town Boat Club                     |
