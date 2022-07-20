@@ -10,7 +10,7 @@
 | 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            | Allu Arjun|
 | 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |Chief Minister:Pinarayi Vijayan|
 | 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |Governor: Justice P.Sadasivam|
-| 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |
+| 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Nitin Gadkari|
 | 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Vice President of India:Mohammad Hamid Ansari|
 | 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |
 | 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |
