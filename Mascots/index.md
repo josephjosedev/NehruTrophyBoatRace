@@ -1,5 +1,3 @@
-<p align="center">
-
-<img src="./2013.jpg" width="250px">
-</p>
- <p align="center">
+| YEAR | MASCOT NAME | MASCOT|
+| :-------------: |:-------------:| :-----:|
+| **2022**|** **|  <img src="./mascot_ntbr22.jpeg" width="200px"> |
