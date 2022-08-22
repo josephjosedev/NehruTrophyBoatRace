@@ -72,5 +72,5 @@
 | 4  | 1956 | Kavalam                     | Thomman Joseph                                 | Kavalam Team                                 |
 | 3  | 1955 | Parthasarathy               | K G Raghavan Nair                              | N S S Karayogam, Nedumudy                    |
 | 2  | 1954 | Kavalam                     | Thomman Joseph                                 | Kavalam Team                                 |
-| 1  | 1952 | Nadubhagam                  | Chakko Mappila Mattu Mappila                   | Nadubhagam Boat Club                         |jawaharlal nehru|
+| 1  | 1952 | Nadubhagam                  | Chakko Mappila Mattu Mappila                   | Nadubhagam Boat Club                         |JawaharLal Nehru|
 
