@@ -4,6 +4,7 @@
 
 | Sl. No.| Year| Name of Boat | Captain | Boat club |Chief Guest |
 | :-------------: |:-------------:| :-----:| :-----:|  :-----:|      :-----:|
+.. | 2022 | Mahadevikaad Kaatil Thekkethil       |Santhosh Chacko|Pallathuruthy Boat Club|
 |  .. | 2021 | ..........        |..........|......|
 |  ..  |2020 | ...........           |...........|..........|
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sachin Tendulkar |            
