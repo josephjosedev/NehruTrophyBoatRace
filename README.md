@@ -8,11 +8,11 @@
 68 | 2022 | Mahadevikaad Kaatil Thekkethil       |Santhosh Chacko|Pallathuruthy Boat Club|Andaman and Nicobar Lt Governor:Rt. Adm. Ral D K Joshi 
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sachin Tendulkar |            
 | 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            | Allu Arjun|
-| 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |Chief Minister:Pinarayi Vijayan|
-| 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |Governor: Justice P.Sadasivam|
-| 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Nitin Gadkari|
-| 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Vice President of India:Mohammad Hamid Ansari|
-| 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |Chiranjeevi,Hon’ble Union Tourism Minister|
+| 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |Sri. Pinarayi Vijayan, Chief Minister of Kerala|
+| 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |Sri. P. Sathasivam Hon’ble Governor of Kerala|
+| 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Sri. Nitin Gadkari Hon’ble Union Transport Minister|
+| 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Dr.Mohammad Hamid Ansari,Hon’ble Vice President of India|
+| 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |Sri.Chiranjeevi,Hon’ble Union Tourism Minister|
 | 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |
 | 59 | 2011 | Karichal                    | Jiji Jacob Pollayil                            | Freedom Boat Club, Kainakary   (court odrer)                    |
 | 58 | 2010 | Jawahar Thayankari          | Joseph philip                                  | Kumarakam Town Boat Club                     |
