@@ -4,6 +4,7 @@
 
 | Sl. No.| Year| Name of Boat | Captain | Boat club |Chief Guest |
 | :-------------: |:-------------:| :-----:| :-----:|  :-----:|      :-----:|
+69 | 2023 |        |   |  |  
 68 | 2022 | Mahadevikaad Kaatil Thekkethil       |Santhosh Chacko|Pallathuruthy Boat Club|Andaman and Nicobar Lt Governor:Rt. Adm. Ral D K Joshi 
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sachin Tendulkar |            
 | 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            | Allu Arjun|
