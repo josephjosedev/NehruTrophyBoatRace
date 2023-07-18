@@ -6,8 +6,8 @@
 | :-------------: |:-------------:| :-----:| :-----:|  :-----:|      :-----:|
 69 | 2023 |        |   |  |  
 68 | 2022 | Mahadevikaad Kaatil Thekkethil       |Santhosh Chacko|Pallathuruthy Boat Club|Andaman and Nicobar Lt Governor:Rt. Adm. Ral D K Joshi 
-| 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sachin Tendulkar |            
-| 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            | Allu Arjun|
+| 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sri. Sachin Tendulkar |            
+| 66 | 2018 | Payippadan Chundan          | Shri. James Kutty Jacob                        | Pallathuruthy Boat Club,Alappuzha            | Sri. Allu Arjun|
 | 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |Sri. Pinarayi Vijayan, Chief Minister of Kerala|
 | 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |Sri. P. Sathasivam Hon’ble Governor of Kerala|
 | 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Sri. Nitin Gadkari Hon’ble Union Transport Minister|
