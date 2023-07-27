@@ -3,7 +3,7 @@
 
 | Year| Mascot Name | Mascot|
 | :-------------: |:---------------------------------------:| :-----:|
-| **2023**|    ****        |  <img src="./2023.jpeg" width="200px"> |
+| **2023**|          |  <img src="./2023.jpeg" width="200px"> |
 | **2022**|    **Mittu**        |  <img src="./mascot_ntbr22.jpeg" width="200px"> |
 | **2019**|**Pankan**|  <img src="./2019.jpg" width="200px"> |
 | **2018**|**Kunjathu**|  <img src="./2018.jpg" width="200px"> |
