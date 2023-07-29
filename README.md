@@ -19,7 +19,7 @@
 | 57 | 2009 | Champakkulam                | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |Smt.Sonia Gandhi, UPA chairperson|
 | 56 | 2008 | Karichal                    | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |
 | 55 | 2007 | Payippad                    | Kunjumon Meluvallil                            | Kumarakam Town Boat Club                     |
-| 54 | 2006 | Payippad                    | Raju Vadakkath                                 | Kumarakam Town Boat Club                     |
+| 54 | 2006 | Payippad                    | Raju Vadakkath                                 | Kumarakam Town Boat Club                     |Sri.V. S. Achuthanandan,Former Chief Minister Of Kerala
 | 53 | 2005 | Payippad                    | Raju Vadakkath                                 | Kumarakam Town Boat Club                     |
 | 52 | 2004 | Cheruthana                  | Raju Vadakkathu, Kumarakam P.O.                | Kumarakam Town Boat Club                     |
 | 51 | 2003 | Karichal                    | Thampi Podippara                               | Navajeevan Boat Club, Maniyaparampu          |
