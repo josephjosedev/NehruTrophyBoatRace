@@ -13,7 +13,7 @@
 | 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Sri. Nitin Gadkari Hon’ble Union Transport Minister|
 | 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Dr.Mohammad Hamid Ansari,Hon’ble Vice President of India|
 | 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |Sri.Chiranjeevi,Hon’ble Union Tourism Minister|
-| 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |
+| 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |Smt.Meira Kumar,Former Speaker of the Lok Sabha
 | 59 | 2011 | Karichal                    | Jiji Jacob Pollayil                            | Freedom Boat Club, Kainakary   (court odrer)                    |
 | 58 | 2010 | Jawahar Thayankari          | Joseph philip                                  | Kumarakam Town Boat Club                     |
 | 57 | 2009 | Champakkulam                | JiJi Jacob Pollayil                            | Jesus Boat Club, Kollam                      |Sonia Gandhi|
