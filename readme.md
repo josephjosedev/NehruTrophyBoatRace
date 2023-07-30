@@ -7,7 +7,11 @@ The major attraction of the boat race is the competition of snake boats chundan 
 
 **HISTORY**
 
-Uploading ntbrPromo.mp4…
+
+
+https://github.com/josephjosedev/NehruTrophyBoatRace/assets/71834579/e6f29894-3170-4f50-ae9f-fb5396d702e7
+
+
 
 
 
