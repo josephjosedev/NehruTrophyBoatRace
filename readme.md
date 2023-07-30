@@ -7,6 +7,10 @@ The major attraction of the boat race is the competition of snake boats chundan 
 
 **HISTORY**
 
+Uploading ntbrPromo.mp4…
+
+
+
 <p>
   The history of the Nehru Trophy Boat Race is associated with the visit of late Pandit Jawaharlal Nehru, the then Prime Minister of India to Alappuzha. He chanced a trip from Kottayam to Alappuzha by boat, through water logged Kuttanad. A pageantry of boats accompanied him on the trip.The first race was an impromptu once conducted in 1952 in honour of Panditji who visited Alappuzha.In that race of snake boats, Nadubhagam Chundan stood first. Panditji, who was thrilled and excited in the performance of the oarsmen, jumped into the Nadubhagam Chundan, forgetting all security arrangements.The boat proceeded to the boat jetty carrying the Prime Minister.On his return to Delhi in December 1952, Nehru donated a Silver Trophy, which is a replica of a snake boat placed on a wooden abacus.The trophy bears the following inscription above his signature.
 
