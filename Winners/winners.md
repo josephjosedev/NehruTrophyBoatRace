@@ -11,7 +11,7 @@
 | 65 | 2017 | Gabriel                     | Ummen Jacob                                    | Thuruthipuram Boat Club,Ernakulam            |Sri. Pinarayi Vijayan, Chief Minister of Kerala|
 | 64 | 2016 | Karichal                    | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom P.O, Kottayam |Sri. P. Sathasivam Hon’ble Governor of Kerala|
 | 63 | 2015 | Jawahar Thayamkary          | Jameskutty Jacob                               | Vembanadu Boat Club, Kumarakom               |Sri. Nitin Gadkari Hon’ble Union Transport Minister|
-| 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Dr.Mohammad Hamid Ansari,Hon’ble Vice President of India/Smt.Sheila Dikshit,Former kerala governor|
+| 62 | 2014 | Champakkulam                | George Thomas                                  | Unite Boat Club, Kainakary                   |Smt.Sheila Dikshit,Former kerala governor|
 | 61 | 2013 | Sri Ganeshan                | Arun Kumar                                     | St.Francis Boat Club,Harippad                |Sri.Chiranjeevi,Hon’ble Union Tourism Minister|
 | 60 | 2012 | Sri Ganeshan                | JiJi Jacob Pollayil                            | Freedom Boat Club, Kainakary                 |Smt.Meera Kumar,Former Speaker of the Lok Sabha
 | 59 | 2011 | Karichal                    | Jiji Jacob Pollayil                            | Freedom Boat Club, Kainakary   (court odrer)                    |Sri.Ghulam Nabi Azad,Former Minister of Health and Family Welfare, Sri.Mammootty ,Actor
