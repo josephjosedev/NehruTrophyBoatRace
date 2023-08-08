@@ -74,3 +74,4 @@
 | 2  | 1954 | Kavalam                     | Thomman Joseph                                 | Kavalam Team                                 |
 | 1  | 1952 | Nadubhagam                  | Chakko Mappila Mattu Mappila                   | Nadubhagam Boat Club                         |Jawahar Lal Nehru|
 
+NB:The information given above is only what I have asked from others.Errors may occur. Anyone can change this information.
