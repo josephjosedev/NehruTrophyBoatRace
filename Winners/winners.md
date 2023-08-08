@@ -54,7 +54,7 @@
 | 22 | 1974 | Karichal                    | P C Joseph                                     | Friends Boat Club Chennamkary & Venattukad   |
 | 21 | 1973 | Kallooparamban              | Nellanikkal Pappachan                          | Kumarakom Boat Club                          |
 | 20 |      | Kallooparamban              | Nellanikkal Pappachan                          | Kumarakom Boat Club                          |
-| 19 | 1971 | Kallooparamban & Pulinkunnu | Nellanikkal Pappachan & Chakkamma Kannotuthara | Kumarakom Boat Club & Pulinkunnu Boat Club   |
+| 19 | 1971 | Kallooparamban & Pulinkunnu | Nellanikkal Pappachan & Chakkamma Kannotuthara | Kumarakom Boat Club & Pulinkunnu Boat Club   |Sri.C. Achutha Menon ,Former Chief Minister of Kerala
 | 18 | 1970 | Kallooparamban              | Vargees Antony                                 | United Boat Club (U.B.C.) Kainakari          |
 | 17 | 1969 | Pulinkunnu                  | C C Chakko                                     | Pulinkunnu Boat Club                         |
 | 16 | 1968 | Parthasarathy               | P K Thankachan                                 | United Boat Club (U.B.C.) Kainakari          |
