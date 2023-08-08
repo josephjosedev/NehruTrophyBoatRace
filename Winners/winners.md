@@ -27,7 +27,7 @@
 | 49 | 2001 | Karichal                    | Tobin Chandy                                   | Friends Boat Club Chennamkary & Venattukad   |
 | 48 | 2000 | Karichal                    | Bency Randuthikkal                             | Alappuzha Boat Club                          |
 | 47 | 1999 | Alappadan                   | Sampath Kaniyamparampil                        | Kumarakom Town Boat Club Kumarakom           |
-| 46 | 1998 | Champakkulam                | Domanic Kuzhimattom                            | Pallatturuthi Boat Club                      |
+| 46 | 1998 | Champakkulam                | Domanic Kuzhimattom                            | Pallatturuthi Boat Club                      |Sri.K. R. Narayanan, Former President of India
 | 45 | 1997 | Alappadan                   | K P Poul                                       | Navajeevan Boat Club, Arppukkara             |
 | 44 | 1996 | Champakkulam                | Anil Madhavan                                  | Alappuzha Boat Club                          |
 | 43 | 1995 | Champakkulam                | Jos Jhon                                       | Alappuzha Boat Club                          |
