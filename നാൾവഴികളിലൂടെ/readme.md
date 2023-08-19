@@ -24,7 +24,7 @@
  - 2014 Mascot Revealed By Film Actor  Dileep
 
   **2015**
-  - V V Gregory Passed away (famous commentator)
+  - V V Gregory Passed away (famous commentator)(18/08/2016)
 
 **2016**
 - Introduced Digital Board for timing
