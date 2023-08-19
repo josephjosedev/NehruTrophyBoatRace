@@ -20,6 +20,9 @@
   **1990-1991**
   - Formation of  Nehru Trophy Boat Race Society(NTBRS)
 
+ **2014**
+ - 2014 Mascot Revealed By Film Actor  Dileep
+
   **2015**
   - V V Gregory Passed away (famous commentator)
 
@@ -39,7 +42,7 @@
 
  **2022** -Nehru Trophy Boat Race was held on 04/09/2022
 
- **2024** -platinum jubilee of NTBR
+ **2024** -Platinum Jubilee of NTBR
 
 
        
