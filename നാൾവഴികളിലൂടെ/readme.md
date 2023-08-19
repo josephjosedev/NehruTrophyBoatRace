@@ -34,6 +34,8 @@
  
  **2021** -Nehru Trophy Boat Race Cancelled due to covid19
 
+ **2022** -Nehru Trophy Boat Race was held on 04/09/2022
+
 
        
   
