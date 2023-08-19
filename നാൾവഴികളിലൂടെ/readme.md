@@ -17,6 +17,9 @@
  **1970**
 -  ഐലന്‍ഡ് പവലിയന്‍ നിര്‍മ്മിച്ചത്‌.
 
+  **1990-1991**
+  - Formation of  Nehru Trophy Boat Race Society(NTBRS)
+
   **2015**
   - V V Gregory Passed away
 
