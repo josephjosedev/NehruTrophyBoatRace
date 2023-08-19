@@ -24,7 +24,16 @@
 - Introduced Digital Board for timing
 - 2016 Mascot Revealed By Film Director Fasil
 
+ **1953** -Nehru Trophy Boat Race Cancelled 
+ 
+ **2018** -Nehru Trophy Boat Race posponted due to flood (Race Date:10/10/2018)
+ 
+ **2019** -Nehru Trophy Boat Race posponted due to flood(Race Date:31/08/2019)
+ 
+ **2020** -Nehru Trophy Boat Race Cancelled due to covid19
+ 
+ **2021** -Nehru Trophy Boat Race Cancelled due to covid19
 
--  
+
        
   
