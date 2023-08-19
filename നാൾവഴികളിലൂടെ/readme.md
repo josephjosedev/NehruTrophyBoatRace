@@ -21,7 +21,7 @@
   - Formation of  Nehru Trophy Boat Race Society(NTBRS)
 
   **2015**
-  - V V Gregory Passed away
+  - V V Gregory Passed away (famous commentator)
 
 **2016**
 - Introduced Digital Board for timing
@@ -38,6 +38,8 @@
  **2021** -Nehru Trophy Boat Race Cancelled due to covid19
 
  **2022** -Nehru Trophy Boat Race was held on 04/09/2022
+
+ **2024** -platinum jubilee of NTBR
 
 
        
