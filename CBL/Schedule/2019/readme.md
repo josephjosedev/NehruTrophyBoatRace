@@ -7,7 +7,7 @@
 | **Thazhathangadi,Kottayam**|    **07 September**        | **Nadubhagom(Tropical Titans) PBC**
 | **Karuvatta,Alappuzha**|**14 September**|  **Nadubhagom(Tropical Titans) PBC**
 | **Piravam,Ernakulam**|**28 September**|  **Nadubhagom(Tropical Titans) PBC**
-| **Marine Drive,Ernakulam**|**05 September**| **Champakulam (Coast Dominators) UBC**
+| **Marine Drive,Ernakulam**|**05 October**| **Champakulam (Coast Dominators) UBC**
 | **Kottappuram,Thrissur**|**12 October**| **Nadubhagom(Tropical Titans) PBC** 
 | **Ponnani,Malappuram**|**19 October**| **Nadubhagom(Tropical Titans) PBC**
 | **Kainakari,Alappuzha**|**26 October**|  **Nadubhagom(Tropical Titans) PBC**
