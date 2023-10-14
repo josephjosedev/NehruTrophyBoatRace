@@ -3,11 +3,11 @@
 **Title Winner:Nadubhagom(Tropical Titans)-Pallathuruthy Boat Club,Alappuzha**
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
-| **Nehru Trophy Boat Race**|  **31 August**        |**Nadubhagom(Tropical Titans)**
-| **Thazhathangadi**|    **07 September**        | **Nadubhagom(Tropical Titans)**
-| **Karuvatta**|**14 September**|  **Nadubhagom(Tropical Titans)**
-| **Piravam**|**28 September**|  **Nadubhagom(Tropical Titans)**
-| **Marine Drive**|**05 September**| **Champakulam (Coast Dominators)**
+| **Nehru Trophy Boat Race,Punnamada**|  **31 August**        |**Nadubhagom(Tropical Titans)**
+| **Thazhathangadi,Kottayam**|    **07 September**        | **Nadubhagom(Tropical Titans)**
+| **Karuvatta,Alappuzha**|**14 September**|  **Nadubhagom(Tropical Titans)**
+| **Piravam,Ernakulam**|**28 September**|  **Nadubhagom(Tropical Titans)**
+| **Marine Drive,Ernakulam**|**05 September**| **Champakulam (Coast Dominators)**
 | **Kottappuram**|**12 October**| **Nadubhagom(Tropical Titans)** 
 | **Ponnani**|**19 October**| **Nadubhagom(Tropical Titans)**
 | **Kainakari**|**26 October**|  **Nadubhagom(Tropical Titans)**
