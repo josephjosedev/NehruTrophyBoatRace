@@ -5,16 +5,16 @@
    
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
-| **Nehru Trophy Boat Race**|  **04 September**        |**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Karuvatta**|**17 September**|  **Nadubhagom(Mighty Oars)**
-| **Pulinkunnu**|**24 November**|  **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Piravam**|**01 October**|  **Nadubhagom(Mighty Oars)**
-| **Marine Drive**|**08 October**| **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Kottappuram**|**15 October**| **Mahadevikaad Kaatil Thekkethil(Tropical Titans)** 
-| **Kainakari**|**22 October**|  **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Thazhathangadi**|    **29 October**        | **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **Nehru Trophy Boat Race,Punnamada**|  **04 September**        |**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **Karuvatta,Alappuzha**|**17 September**|  **Nadubhagom(Mighty Oars)**
+| **Pulinkunnu,Alappuzha**|**24 September**|  **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **Piravam Ernakulam**|**01 October**|  **Nadubhagom(Mighty Oars)**
+| **Marine Drive,Ernakulam**|**08 October**| **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **Kottappuram,Thrissur**|**15 October**| **Mahadevikaad Kaatil Thekkethil(Tropical Titans)** 
+| **Kainakkari,Alappuzha**|**22 October**|  **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **Thazhathangadi,Kottayam**|    **29 October**        | **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
 | **Pandanadu,Chengannur**|    **05 November**        | **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Kayamkulam**|**12 November**|**Nadubhagom(Mighty Oars)**
-| **Kallada**|**19 November**|**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **President's Boat Race**|**26 November**|**Nadubhagom(Mighty Oars)**
+| **Kayamkulam,Alappuzha**|**12 November**|**Nadubhagom(Mighty Oars)**
+| **Kallada,Kollam**|**19 November**|**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
+| **President's Trophy  Boat Race**|**26 November**|**Nadubhagom(Mighty Oars)**
 
