@@ -1,15 +1,15 @@
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
-| **Nehru Trophy Boat Race**|  **31 August**        |**Nadubhagom**
-| **Thazhathangadi**|    **07 September**        | 
-| **Karuvatta**|**14 September**|  
-| **Piravam**|**28 September**|  
+| **Nehru Trophy Boat Race**|  **31 August**        |**Nadubhagom(Tropical Titans)**
+| **Thazhathangadi**|    **07 September**        | **Nadubhagom(Tropical Titans)**
+| **Karuvatta**|**14 September**|  **Nadubhagom(Tropical Titans)**
+| **Piravam**|**28 September**|  **Nadubhagom(Tropical Titans)**
 | **Marine Drive**|**05 September**| 
-| **Kottappuram**|**12 October**|  
-| **Ponnani**|**19 October**| 
-| **Kainakari**|**26 October**|  
-| **Pulinkunnu**|**02 November**|  
-| **Kayamkulam**|**09 November**|
-| **Kallada**|**16 November**|
-| **President'sBoat Race**|**23 November**|
+| **Kottappuram**|**12 October**| **Nadubhagom(Tropical Titans)** 
+| **Ponnani**|**19 October**| **Nadubhagom(Tropical Titans)**
+| **Kainakari**|**26 October**|  **Nadubhagom(Tropical Titans)**
+| **Pulinkunnu**|**02 November**|  **Nadubhagom(Tropical Titans)**
+| **Kayamkulam**|**09 November**|**Nadubhagom(Tropical Titans)**
+| **Kallada**|**16 November**|**Nadubhagom(Tropical Titans)**
+| **President'sBoat Race**|**23 November**|**Nadubhagom(Tropical Titans)**
 
