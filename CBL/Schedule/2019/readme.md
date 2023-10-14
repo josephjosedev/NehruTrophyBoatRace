@@ -8,11 +8,11 @@
 | **Karuvatta,Alappuzha**|**14 September**|  **Nadubhagom(Tropical Titans)**
 | **Piravam,Ernakulam**|**28 September**|  **Nadubhagom(Tropical Titans)**
 | **Marine Drive,Ernakulam**|**05 September**| **Champakulam (Coast Dominators)**
-| **Kottappuram**|**12 October**| **Nadubhagom(Tropical Titans)** 
-| **Ponnani**|**19 October**| **Nadubhagom(Tropical Titans)**
-| **Kainakari**|**26 October**|  **Nadubhagom(Tropical Titans)**
-| **Pulinkunnu**|**02 November**|  **Nadubhagom(Tropical Titans)**
-| **Kayamkulam**|**09 November**|**Nadubhagom(Tropical Titans)**
-| **Kallada**|**16 November**|**Nadubhagom(Tropical Titans)**
-| **President'sBoat Race**|**23 November**|**Nadubhagom(Tropical Titans)**
+| **Kottappuram,Thrissur**|**12 October**| **Nadubhagom(Tropical Titans)** 
+| **Ponnani,Malappuram**|**19 October**| **Nadubhagom(Tropical Titans)**
+| **Kainakari,Alappuzha**|**26 October**|  **Nadubhagom(Tropical Titans)**
+| **Pulinkunnu,Alappuzha**|**02 November**|  **Nadubhagom(Tropical Titans)**
+| **Kayamkulam,Alappuzha**|**09 November**|**Nadubhagom(Tropical Titans)**
+| **Kallada,kollam**|**16 November**|**Nadubhagom(Tropical Titans)**
+| **President's Trophy Boat Race**|**23 November**|**Nadubhagom(Tropical Titans)**
 
