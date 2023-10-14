@@ -1,7 +1,7 @@
 
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
-| **Nehru Trophy Boat Race**|  **4 September**        |**Nadubhagom(Tropical Titans)**
+| **Nehru Trophy Boat Race**|  **04 September**        |**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
 | **Karuvatta**|**17 September**|  **Nadubhagom(Tropical Titans)**
 | **Pulinkunnu**|**24 November**|  **Nadubhagom(Tropical Titans)**
 | **Piravam**|**01 October**|  **Nadubhagom(Tropical Titans)**
