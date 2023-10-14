@@ -1,6 +1,6 @@
 **Champions Boat League -2019**
 
-**Title Winner:Nadubhagom(Tropical Titans)-Pallathuruthy Boat Club,Alappuzha**
+**Title Winner:Nadubhagom (Tropical Titans)  Pallathuruthy Boat Club,Alappuzha**
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
 | **Nehru Trophy Boat Race,Punnamada**|  **31 August**        |**Nadubhagom(Tropical Titans)**
