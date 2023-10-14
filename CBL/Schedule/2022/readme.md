@@ -8,10 +8,9 @@
 | **Marine Drive**|**08 October**| **Champakulam (Coast Dominators)**
 | **Kottappuram**|**15 October**| **Nadubhagom(Tropical Titans)** 
 | **Kainakari**|**22 October**|  **Nadubhagom(Tropical Titans)**
-
-| **Ponnani**|**19 October**| **Nadubhagom(Tropical Titans)**
-
-| **Kayamkulam**|**09 November**|**Nadubhagom(Tropical Titans)**
-| **Kallada**|**16 November**|**Nadubhagom(Tropical Titans)**
-| **President'sBoat Race**|**23 November**|**Nadubhagom(Tropical Titans)**
+| **Thazhathangadi**|    **29 October**        | **Nadubhagom(Tropical Titans)**
+| **Pandanadu,Chengannur**|    **05 November**        | **Nadubhagom(Tropical Titans)**
+| **Kayamkulam**|**12 November**|**Nadubhagom(Tropical Titans)**
+| **Kallada**|**19 November**|**Nadubhagom(Tropical Titans)**
+| **President'sBoat Race**|**26 November**|**Nadubhagom(Tropical Titans)**
 
