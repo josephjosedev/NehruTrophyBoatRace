@@ -9,15 +9,20 @@
 | **Marine Drive**|**16 September**| **Veeyapuram(Tropical Titans)**
 | **Kottappuram**|**23 September**| **Veeyapuram(Tropical Titans)**
 | **Beypore**|**24 September**|  **Cancelled due to Nipah virus**
-| **Piravam**|**01 October**|  **Nadubhagom(Coast Dominators) & Veeyapuram(Tropical Titans)**
+| **Piravam**|**30 September**|  **Nadubhagom(Coast Dominators) & Veeyapuram(Tropical Titans)**
 | **Thazhathangadi**|    **07 October** | **Nadubhagom(Coast Dominators)**
 | **Pulinkunnu**|**14 October**|  **Nadubhagom(Coast Dominators)**
+| **Kainakari**|**21 October**|  
+|**Karuvatta**|**28 October**|
+| **Kayamkulam**|**18 November**|
+| **Kallada**|**25 November**|
+| **Pandanadu,Chengannur**|    **02 December** | 
+| **President's  Trophy Boat Race**|**09 December**|
 
 
 
-| **Kainakari**|**22 October**|  **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
 
-| **Pandanadu,Chengannur**|    **05 November**        | **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **Kayamkulam**|**12 November**|**Nadubhagom(Mighty Oars)**
-| **Kallada**|**19 November**|**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **President's Boat Race**|**26 November**|**Nadubhagom(Mighty Oars)**
+
+
+
+
