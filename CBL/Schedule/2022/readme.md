@@ -1,4 +1,8 @@
+**Champions Boat League -2022**
 
+**Title Winner:Mahadevikaad Kaatil Thekkethil(Tropical Titans)-Pallathuruthy Boat Club,Alappuzha**
+  
+   
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
 | **Nehru Trophy Boat Race**|  **04 September**        |**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
