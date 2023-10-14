@@ -12,5 +12,5 @@
 | **Pandanadu,Chengannur**|    **05 November**        | **Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
 | **Kayamkulam**|**12 November**|**Nadubhagom(Mighty Oars)**
 | **Kallada**|**19 November**|**Mahadevikaad Kaatil Thekkethil(Tropical Titans)**
-| **President'sBoat Race**|**26 November**|**Nadubhagom(Mighty Oars)**
+| **President's Boat Race**|**26 November**|**Nadubhagom(Mighty Oars)**
 
