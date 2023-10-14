@@ -5,13 +5,13 @@
    
 | Venue| Date| Winnner|
 | :-------------: |:---------------------------------------:| :---------------------------------------:|
-| **Nehru Trophy Boat Race,Punnamada**|  **12 August**        |**Veeyapuram(Tropical Titans)**
-| **Marine Drive,Ernakulam**|**16 September**| **Veeyapuram(Tropical Titans)**
-| **Kottappuram,Thrissur**|**23 September**| **Veeyapuram(Tropical Titans)**
+| **Nehru Trophy Boat Race,Punnamada**|  **12 August**        |**Veeyapuram(Tropical Titans) PBC** 
+| **Marine Drive,Ernakulam**|**16 September**| **Veeyapuram(Tropical Titans) PBC**
+| **Kottappuram,Thrissur**|**23 September**| **Veeyapuram(Tropical Titans) PBC**
 | **Beypore,Kozhikode**|**24 September**|  **Cancelled due to Nipah virus**
-| **Piravom,Ernakulam**|**30 September**|  **Nadubhagom(Coast Dominators) & Veeyapuram(Tropical Titans)**
-| **Thazhathangadi,Kottayam**|    **07 October** | **Nadubhagom(Coast Dominators)**
-| **Pulinkunnu,Alappuzha**|**14 October**|  **Nadubhagom(Coast Dominators)**
+| **Piravom,Ernakulam**|**30 September**|  **Nadubhagom(Coast Dominators) UBC & Veeyapuram(Tropical Titans) PBC**
+| **Thazhathangadi,Kottayam**|    **07 October** | **Nadubhagom(Coast Dominators) UBC**
+| **Pulinkunnu,Alappuzha**|**14 October**|  **Nadubhagom(Coast Dominators) UBC**
 | **Kainakari,Alappuzha**|**21 October**|  
 |**Karuvatta,Alappuzha**|**28 October**|
 | **Kayamkulam,Alappuzha**|**18 November**|
