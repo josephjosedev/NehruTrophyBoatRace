@@ -4,7 +4,7 @@
 | **Thazhathangadi**|    **07 September**        | **Nadubhagom(Tropical Titans)**
 | **Karuvatta**|**14 September**|  **Nadubhagom(Tropical Titans)**
 | **Piravam**|**28 September**|  **Nadubhagom(Tropical Titans)**
-| **Marine Drive**|**05 September**| 
+| **Marine Drive**|**05 September**| **Champakulam (Coast Dominators)**
 | **Kottappuram**|**12 October**| **Nadubhagom(Tropical Titans)** 
 | **Ponnani**|**19 October**| **Nadubhagom(Tropical Titans)**
 | **Kainakari**|**26 October**|  **Nadubhagom(Tropical Titans)**
