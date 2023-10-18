@@ -3,7 +3,7 @@
 **Title Winner:Mahadevikaad Kaatil Thekkethil(Tropical Titans)-Pallathuruthy Boat Club,Alappuzha**
   
    
-SL.No.| Venue| Date| Winnner|
+|SL.No.| Venue| Date| Winnner|
 | :-------------:| :-------------: |:---------------------------------------:| :---------------------------------------:|
 |1| **Nehru Trophy Boat Race,Punnamada**|  **04 September**        |**Mahadevikaad Kaatil Thekkethil(Tropical Titans) PBC**
 |2| **Karuvatta,Alappuzha**|**17 September**|  **Nadubhagom(Mighty Oars) NCDC**
