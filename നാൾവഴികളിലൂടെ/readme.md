@@ -30,6 +30,9 @@
 - Introduced Digital Board for timing
 - 2016 Mascot Revealed By Film Director Fasil
 
+**2019**
+- The first season of CBL was held in 2019, inaugurated by Sachin Tendulkar.It started with the Nehru Trophy on 10 August and ended with the President's Trophy on 1November.
+
  **1953** -Nehru Trophy Boat Race Cancelled 
  
  **2018** -Nehru Trophy Boat Race posponted due to flood (Race Date:10/10/2018)
