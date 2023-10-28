@@ -13,7 +13,7 @@
 |6| **Thazhathangadi,Kottayam**|    **07 October** | **Nadubhagom(Coast Dominators) UBC**
 |7| **Pulinkunnu,Alappuzha**|**14 October**|  **Nadubhagom(Coast Dominators) UBC**
 |8| **Kainakari,Alappuzha**|**21 October**| **Veeyapuram(Tropical Titans) PBC** 
-|9|**Karuvatta,Alappuzha**|**28 October**|
+|9|**Karuvatta,Alappuzha**|**28 October**| **Nadubhagom(Coast Dominators) UBC**
 |10| **Kayamkulam,Alappuzha**|**18 November**|
 |11| **Kallada,Kollam**|**25 November**|
 |12| **Pandanadu,Chengannur,Alappuzha**|    **02 December** | 
