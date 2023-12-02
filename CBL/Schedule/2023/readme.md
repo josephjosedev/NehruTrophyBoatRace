@@ -16,7 +16,7 @@
 |9|**Karuvatta,Alappuzha**|**28 October**| **Nadubhagom(Coast Dominators) UBC**
 |10| **Kayamkulam,Alappuzha**|**18 November**|**Veeyapuram(Tropical Titans) PBC**
 |11| **Kallada,Kollam**|**25 November**|**Veeyapuram(Tropical Titans) PBC**
-|12| **Pandanadu,Chengannur,Alappuzha**|    **02 December** | 
+|12| **Pandanadu,Chengannur,Alappuzha**|    **02 December** | **Veeyapuram(Tropical Titans) PBC**
 |13| **President's  Trophy Boat Race**|**09 December**|
 
 
