@@ -1,6 +1,6 @@
 **Champions Boat League -2023**
 
-**Title Winner:**
+**Title Winner:Veeyapuram(Tropical Titans) PBC**
   
    
 |SL.NO.| Venue| Date| Winnner|
@@ -17,7 +17,7 @@
 |10| **Kayamkulam,Alappuzha**|**18 November**|**Veeyapuram(Tropical Titans) PBC**
 |11| **Kallada,Kollam**|**25 November**|**Veeyapuram(Tropical Titans) PBC**
 |12| **Pandanadu,Chengannur,Alappuzha**|    **02 December** | **Veeyapuram(Tropical Titans) PBC**
-|13| **President's  Trophy Boat Race**|**09 December**|
+|13| **President's  Trophy Boat Race**|**09 December**| **Veeyapuram(Tropical Titans) PBC**
 
 
 
