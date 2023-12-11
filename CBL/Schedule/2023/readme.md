@@ -1,6 +1,6 @@
 **Champions Boat League -2023**
 
-**Title Winner:Veeyapuram(Tropical Titans) PBC**
+**Title Winner:Veeyapuram(Tropical Titans) Pallathuruthy Boat Club,Alappuzha**
   
    
 |SL.NO.| Venue| Date| Winnner|
