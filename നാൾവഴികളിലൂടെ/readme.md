@@ -11,7 +11,7 @@
  **1953** -Nehru Trophy Boat Race Cancelled 
  
 **1954**
-- ല്‍:കൈനകരിയിലെ മീനപ്പള്ളി വട്ടക്കായലില്‍ **പ്രൈംമിനിസ്റ്റേര്‍സ് ട്രോഫി** എന്നപേരിലാണ് വള്ളംകളി നടത്തിയത്‌ .
+- കൈനകരിയിലെ മീനപ്പള്ളി വട്ടക്കായലില്‍ **പ്രൈംമിനിസ്റ്റേര്‍സ് ട്രോഫി** എന്നപേരിലാണ് വള്ളംകളി നടത്തിയത്‌ .
  
  **1955**
   - മുതല്‍ പുന്നമടക്കായലില്‍ നടത്തി വരുന്നു.
@@ -33,15 +33,15 @@
 - 2016 Mascot Revealed By Film Director Fasil
 
 **2019**
-- The first season of CBL was held in 2019, inaugurated by Sachin Tendulkar.It started with the Nehru Trophy on 10 August and ended with the President's Trophy on 1November.
+- The first season of CBL was held in 2019, inaugurated by Sachin Tendulkar.It started with the Nehru Trophy on 10 August and ended with the President's Trophy on November .
  
  **2018** -Nehru Trophy Boat Race posponted due to flood (Race Date:10/10/2018)
  
  **2019** -Nehru Trophy Boat Race posponted due to flood(Race Date:31/08/2019)
  
- **2020** -Nehru Trophy Boat Race Cancelled due to covid19
+ **2020** -Nehru Trophy Boat Race Cancelled due to covid19 pandemic
  
- **2021** -Nehru Trophy Boat Race Cancelled due to covid19
+ **2021** -Nehru Trophy Boat Race Cancelled due to covid19 pandemic
 
  **2022** -Nehru Trophy Boat Race was held on 04/09/2022
 
