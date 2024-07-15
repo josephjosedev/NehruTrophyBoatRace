@@ -1,10 +1,10 @@
 
 
 
-| Year| Mascot Name | Mascot|
-| :-------------: |:---------------------------------------:| :-----:|
-| **2024**|         |  <img src="./2024.jpg" width="200px"> |
-| **2023**|  **Keshu**        |  <img src="./2023.jpeg" width="200px"> |
+| Year| Mascot Name | Mascot|Released by|
+| :-------------: |:---------------------------------------:| :-----:| :-----:|
+| **2024**|         |  <img src="./2024.jpg" width="200px"> | kunchacko Boban
+| **2023**|  **Keshu**        |  <img src="./2023.jpeg" width="200px"> |Gayathri Arun
 | **2022**|    **Mittu**        |  <img src="./mascot_ntbr22.jpeg" width="200px"> |
 | **2019**|**Pankan**|  <img src="./2019.jpg" width="200px"> |
 | **2018**|**Kunjathu**|  <img src="./2018.jpg" width="200px"> |
