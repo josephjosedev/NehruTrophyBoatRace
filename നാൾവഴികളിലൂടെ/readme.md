@@ -45,7 +45,7 @@
 
  **2022** -Nehru Trophy Boat Race was held on 04/09/2022
 
- **2024** -Platinum Jubilee of NTBR
+ **2024** -**Platinum Jubilee of NTBR**   Nehru Trophy Boat Race posponted due to Wayanad Landslide Disaster(Race Date:00/00/0000)
 
 
        
