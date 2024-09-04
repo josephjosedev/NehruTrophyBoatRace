@@ -48,7 +48,7 @@
  **2024** -**Platinum Jubilee of NTBR** 
  - Mascot Revealed By Actor Kunchacko Boban
  - Mascot Name Revealed by Actor Ganapathi
- - Nehru Trophy Boat Race posponted due to Wayanad Landslide Disaster(Race Date:00/00/0000)
+ - Nehru Trophy Boat Race posponted due to Wayanad Landslide Disaster(Race Date:28/09/2024)
 
 
        
