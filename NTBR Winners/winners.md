@@ -4,7 +4,7 @@
 
 | Sl. No.| Year| Name of Boat | Captain | Boat club |Chief Guest |
 | :-------------: |:-------------:| :-----:| :-----:|  :-----:|      :-----:|
-70 | 2024|      |   |  |  
+70 | 2024|  Karichal    |  Alan Moonnuthickal  |  Pallathuruthy Boat Club | sri.Muhammed Riyas,Tourism Minister of Kerala 
 69 | 2023 |  Veeyapuram      | Alan Moonnuthickal  |  Pallathuruthy Boat Club| Sri. Pinarayi Vijayan, Chief Minister of Kerala ,Justice Ashish Jitendra Desai High court Chief  Justice of Kerala
 68 | 2022 | Mahadevikaad Kaatil Thekkethil       |Santhosh Chacko|Pallathuruthy Boat Club|Sri. Pinarayi Vijayan, Chief Minister of Kerala 
 | 67 | 2019 | Nadubhagam chundan          | Narayanan Kutty N                     | Pallathuruthy Boat Club,Alappuzha        |Sri. Sachin Tendulkar,Cricketer |            
