@@ -14,6 +14,6 @@
 | **2014**|**Vellaran**|  <img src="./2014.jpg" width="200px"> |
 | **2013**|**Thithiri**|  <img src="./2013.jpg" width="200px"> |
 | **2012**||  <img src="./2012.jpg" width="200px"> |
-| **2007**||  <img src="./2007.jpg" width="200px"> |
-| **2006**|THAKKUDU|  <img src="./2006.gif" width="200px"> |
-| **2005**|CHIRUTHA|  <img src="./2005.gif" width="200px"> |
+| **2007**|**Punnara**|  <img src="./2007.jpg" width="200px"> |
+| **2006**|**THAKKUDU**|  <img src="./2006.gif" width="200px"> |
+| **2005**|**CHIRUTHA**|  <img src="./2005.gif" width="200px"> |
