@@ -36,9 +36,9 @@
 **2019**
 - The first season of CBL was held in 2019, inaugurated by Sachin Tendulkar.It started with the Nehru Trophy on 10 August and ended with the President's Trophy on November .
  
- **2018** -Nehru Trophy Boat Race posponted due to flood (Race Date:10/10/2018)
+ **2018** -Nehru Trophy Boat Race posponted due to flood (New race Date:10/10/2018)
  
- **2019** -Nehru Trophy Boat Race posponted due to flood(Race Date:31/08/2019)
+ **2019** -Nehru Trophy Boat Race posponted due to flood(New race Date:31/08/2019)
  
  **2020** -Nehru Trophy Boat Race Cancelled due to covid19 pandemic
  
@@ -49,7 +49,7 @@
  **2024** -**Platinum Jubilee of NTBR** 
  - Mascot Revealed By Actor Kunchacko Boban
  - Mascot Name Revealed by Actor Ganapathi
- - Nehru Trophy Boat Race posponted due to Wayanad Landslide Disaster(Race Date:28/09/2024)
+ - Nehru Trophy Boat Race posponted due to Wayanad Landslide Disaster(New race Date:28/09/2024)
 
 
        
