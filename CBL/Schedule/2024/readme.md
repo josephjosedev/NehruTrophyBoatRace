@@ -7,4 +7,4 @@
 |2| **Kainakari,Alappuzha**|**23 November**| **Karichal(Tropical Titans) PBC** 
 |3| **Pandanadu,Chengannur,Alappuzha**|    **30 November** | **Veeyapuram (Pride Chasers) VBC**
 |4|**Karuvatta,Alappuzha**|**07 December**| **Karichal(Tropical Titans) PBC**
-|5| **Kayamkulam,Alappuzha**|**14 December**|
+|5| **Kayamkulam,Alappuzha**|**14 December**|**Karichal(Tropical Titans) PBC**
