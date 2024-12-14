@@ -8,3 +8,4 @@
 |3| **Pandanadu,Chengannur,Alappuzha**|    **30 November** | **Veeyapuram (Pride Chasers) VBC**
 |4|**Karuvatta,Alappuzha**|**07 December**| **Karichal(Tropical Titans) PBC**
 |5| **Kayamkulam,Alappuzha**|**14 December**|**Karichal(Tropical Titans) PBC**
+|6| **President's  Trophy Boat Race,Kollam**|**21 December**| 
