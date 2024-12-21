@@ -1,6 +1,6 @@
 **Champions Boat League -2024**
 
-**Title Winner:**Karichal(Tropical Titans) PBC****
+**Title Winner:**Karichal(Tropical Titans)Pallathuruthy Boat Club,Alappuzha****
 |SL.NO.| Venue| Date| Winnner|
 | :-------------: | :-------------: |:---------------------------------------:| :---------------------------------------:|
 |1|**Thazhathangadi,Kottayam**|    **16 November** | **The boat race final  was abandoned due to protest(Points equally divided to first three teams**
